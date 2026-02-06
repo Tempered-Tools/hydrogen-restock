@@ -1,6 +1,6 @@
 {
   "name": "@tempered/hydrogen-restock",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Back-in-stock notification components for Shopify Hydrogen storefronts",
   "license": "MIT",
   "author": "Tempered Tools <hello@temperedtools.xyz>",
